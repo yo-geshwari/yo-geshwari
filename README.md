@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Yogeshwari Kanwar!
 
-🎓 Aspiring Front-End Developer | 🌱 Currently diving into Backend Development  
-💼 Looking for Front-End/Web Development Internships
+### 🎓 Aspiring Front-End Developer | 🌱 Currently diving into Backend Development  
+### 💼 Looking for Front-End/Web Development Internships
 ---
 
 <!--
